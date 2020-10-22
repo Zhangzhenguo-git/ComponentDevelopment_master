@@ -1,0 +1,6 @@
+include ':common'
+include ':video'
+include ':personal'
+include ':home'
+include ':app'
+rootProject.name = "ComponentDevelopment_master"
